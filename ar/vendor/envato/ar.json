@@ -1,0 +1,396 @@
+{
+    "(Deleted)": "(تم الحذف)",
+    "(unknown)": "(غير معروف)",
+    ":buyer purchased a :license of :item :soldAt": "قام :buyer بشراء :license من :item :soldAt",
+    ":count sale(s) - :amount": "عملية بيع (عمليات) بيع :count - :amount",
+    ":count sales": "مبيعات :count",
+    ":count today": ":count اليوم",
+    ":message. Retry after :seconds seconds.": "أعد المحاولة :message. بعد :seconds ثانية.",
+    ":name enabled": "تم تمكين :name",
+    ":name is added successfully.": "تمت إضافة :name بنجاح.",
+    ":name is already in your items list.": ":name موجود بالفعل في قائمة العناصر الخاصة بك.",
+    ":name is already in your watching items list.": ":name موجود بالفعل في قائمة عناصر المشاهدة.",
+    "A new version (:version / released on :releaseDate) is available to update, please go to :systemUpdateLink to upgrade to the latest version!": "يتوفر إصدار جديد (:version/تم إصداره على :releaseDate) للتحديث، الرجاء الانتقال إلى :systemUpdateLink للترقية إلى أحدث إصدار!",
+    "A purchase code (license) is only valid for One Domain. Are you using this theme on a new domain? Purchase a :link to get a new purchase code.": "رمز الشراء (الترخيص) صالح فقط لـ One Domain. هل تستخدم هذا الموضوع على نطاق جديد؟ قم بشراء :link للحصول على رمز شراء جديد.",
+    "Access Token": "رمز الوصول",
+    "Account :name has been connected already.": "تم توصيل الحساب :name بالفعل.",
+    "Account :name has been connected successfully.": "تم الاتصال بالحساب :name بنجاح.",
+    "Account :name has been reconnected successfully.": "تمت إعادة الاتصال بالحساب :name بنجاح.",
+    "Account :name not found.": "لم يتم العثور على الحساب :name.",
+    "Accounts": "الحسابات",
+    "Actions": "الإجراءات",
+    "Activate license": "تفعيل الترخيص",
+    "Active license": "ترخيص نشط",
+    "Add New Language": "إضافة لغة جديدة",
+    "Add Watching Item": "إضافة عنصر مشاهدة",
+    "Add the above command to the crontab file and save it.": "أضف الأمر أعلاه إلى ملف crontab واحفظه.",
+    "After creating your bot, you must send a message to your group/channel, then click on the button \"Get Chat ID\" to get the list of chat IDs.": "بعد إنشاء برنامج الروبوت الخاص بك، يجب عليك إرسال رسالة إلى مجموعتك/قناتك، ثم النقر فوق الزر «الحصول على معرف الدردشة» للحصول على قائمة معرفات الدردشة.",
+    "All rights reserved.": "جميع الحقوق محفوظة.",
+    "Amount": "المبلغ",
+    "An environment name is required.": "اسم البيئة مطلوب.",
+    "Analytics of :name": "تحليلات :name",
+    "Appearance": "المظهر",
+    "Are you sure you want to delete this item?": "هل تريد بالتأكيد حذف هذا العنصر؟",
+    "Are you sure you want to delete this locale?": "هل تريد بالتأكيد حذف هذه اللغة؟",
+    "Are you sure you want to delete this user?": "هل تريد بالتأكيد حذف هذا المستخدم؟",
+    "Are you sure you want to disconnect this account? This action will delete all data related to this account.": "هل تريد بالتأكيد قطع اتصال هذا الحساب؟ سيؤدي هذا الإجراء إلى حذف جميع البيانات المتعلقة بهذا الحساب.",
+    "Are you sure you want to import statements from Envato API, It will take a long while minutes?": "هل تريد بالتأكيد استيراد البيانات من Envato API، سيستغرق الأمر بضع دقائق؟",
+    "Are you sure you want to reset Envato integration? This action will reset Envato Client ID and Client Secret.": "هل أنت متأكد أنك تريد إعادة ضبط تكامل Envato؟ سيؤدي هذا الإجراء إلى إعادة تعيين معرف عميل Envato وسر العميل.",
+    "Are you sure?": "هل أنت متأكد؟",
+    "Avatar": "أفاتار",
+    "Back": "إلى الخلف",
+    "Bot Token": "رمز البوت",
+    "Cancel": "إلغاء",
+    "Cancelled.": "أُلغيت.",
+    "Cannot connect this account. Please try again.": "لا يمكن توصيل هذا الحساب. يرجى المحاولة مرة أخرى.",
+    "Cannot download language files. Please go to https://github.com/archielite/envato-translations/releases and download the language files manually.": "لا يمكن تنزيل ملفات اللغة. يرجى الانتقال إلى https://github.com/archielite/envato-translations/releases وتنزيل ملفات اللغة يدويًا.",
+    "Change Password": "تغيير كلمة المرور",
+    "Chat ID": "معرف الدردشة",
+    "Check Permissions": "تحقق من الأذونات",
+    "Click here active license": "انقر هنا الترخيص النشط",
+    "Click here to copy this script": "انقر هنا لنسخ هذا البرنامج النصي",
+    "Click on Generate button to create Scriptable token": "انقر فوق زر إنشاء لإنشاء رمز مميز قابل للبرمجة",
+    "Client ID": "معرف العميل",
+    "Client Secret": "سر العميل",
+    "Close": "أغلق",
+    "Code": "الكود",
+    "Configure your notifications settings.": "قم بتكوين إعدادات الإشعارات الخاصة بك.",
+    "Confirm Password": "تأكيد كلمة المرور",
+    "Confirm that, according to the Envato License Terms, each license entitles one person for a single project. Creating multiple unregistered installations is a copyright violation. :href": "تأكد من أنه وفقًا لشروط ترخيص Envato، فإن كل ترخيص يمنح شخصًا واحدًا لمشروع واحد. يعد إنشاء العديد من عمليات التثبيت غير المسجلة انتهاكًا لحقوق الطبع والنشر. :href",
+    "Congratulations! Your cronjob is running.": "تهانينا! وظيفة كرونجوب الخاصة بك قيد التشغيل.",
+    "Connect New Account": "قم بتوصيل حساب جديد",
+    "Connect to your server via SSH or any preferred method.": "اتصل بالخادم الخاص بك عبر SSH أو أي طريقة مفضلة.",
+    "Copied": "تم نسخها",
+    "Copy": "نسخ",
+    "Copy the above script and paste it to the widget in the Scriptable app. Please save the above settings before using this script.": "انسخ البرنامج النصي أعلاه والصقه إلى الأداة في تطبيق Scriptable. يرجى حفظ الإعدادات أعلاه قبل استخدام هذا البرنامج النصي.",
+    "Copy this token": "انسخ هذا الرمز",
+    "Could not download updated file. Please check your license or your internet network.": "لا يمكن تنزيل الملف المحدث. يرجى التحقق من الترخيص الخاص بك أو شبكة الإنترنت الخاصة بك.",
+    "Could not import this file.": "لا يمكن استيراد هذا الملف.",
+    "Could not update files & database.": "تعذر تحديث الملفات وقاعدة البيانات.",
+    "Country": "البلد",
+    "Create": "ابتكر",
+    "Create User": "إنشاء مستخدم",
+    "Create a new user.": "قم بإنشاء مستخدم جديد.",
+    "Create account": "إنشاء حساب",
+    "Created Date": "تاريخ الإنشاء",
+    "Cronjob": "كرونجوب",
+    "Cronjob allow you to automate certain commands or scripts on your site.": "يسمح لك Cronjob بأتمتة أوامر أو نصوص معينة على موقعك.",
+    "Current": "تيار",
+    "Current Password": "كلمة المرور الحالية",
+    "Dark": "داكن",
+    "Dashboard": "لوحة التحكم",
+    "Database Connection": "اتصال قاعدة البيانات",
+    "Database host": "مضيف قاعدة البيانات",
+    "Database name": "اسم قاعدة البيانات",
+    "Database password": "كلمة مرور قاعدة البيانات",
+    "Database port": "منفذ قاعدة البيانات",
+    "Database username": "اسم مستخدم قاعدة البيانات",
+    "Date": "التاريخ",
+    "Deactivate license": "إلغاء تنشيط الترخيص",
+    "Debug mode": "وضع التصحيح",
+    "Delete": "حذف",
+    "Delete Locale": "حذف الإعدادات المحلية",
+    "Demo mode": "الوضع التجريبي",
+    "Detail": "التفاصيل",
+    "Disconnect": "قطع الاتصال",
+    "Disconnect account": "قطع الاتصال بالحساب",
+    "Dismiss": "رفض",
+    "Done. :count statements has been imported.": "تم. تم استيراد عبارات :count.",
+    "Download your statements in CSV format": "قم بتنزيل كشوفات الحساب بصيغة CSV",
+    "Drag and drop files here or click here to choose files.": "قم بسحب وإسقاط الملفات هنا أو انقر هنا لاختيار الملفات.",
+    "E.g. 14155238886": "على سبيل المثال 14155238886",
+    "E.g: 101010aa-10aa-11aa-00aa-1010101010aa": "على سبيل المثال: 101010aa-10aa-11aa-00aa-101010aa",
+    "Earnings this month": "أرباح هذا الشهر",
+    "Earnings today": "أرباح اليوم",
+    "Edit": "تحرير",
+    "Edit User": "تحرير المستخدم",
+    "Edit user details": "تحرير تفاصيل المستخدم",
+    "Email": "البريد الإلكتروني",
+    "Email Password Reset Link": "رابط إعادة تعيين كلمة مرور البريد الإلكتروني",
+    "Enable :name notifications?": "تمكين إعلامات :name؟",
+    "Enable sales notification for events:": "تمكين إشعار المبيعات للأحداث:",
+    "English": "الإنجليزية",
+    "Enter confirm password": "أدخل تأكيد كلمة المرور",
+    "Enter current password": "أدخل كلمة المرور الحالية",
+    "Enter email": "أدخل البريد الإلكتروني",
+    "Enter name": "أدخل الاسم",
+    "Enter new password": "أدخل كلمة مرور جديدة",
+    "Enter password": "أدخل كلمة المرور",
+    "Enter password confirmation": "تأكيد إدخال كلمة المرور",
+    "Enter your App ID...": "أدخل معرف التطبيق الخاص بك...",
+    "Envato API limit reached. Please wait :time seconds.": "تم الوصول إلى حد Envato API. الرجاء الانتظار :time ثانية.",
+    "Envato Accounts": "حسابات إنفاتو",
+    "Envato Client ID": "معرف عميل إنفاتو",
+    "Envato Client Secret": "سر عميل إنفاتو",
+    "Envato Integration": "تكامل إنفاتو",
+    "Environment Settings": "إعدادات البيئة",
+    "Ex: 10101010-10aa-0101-a1b1010a01b10": "على سبيل المثال: 10101010-10aa-0101-a1b1010a01b10",
+    "Extended & Renewed Support Sales": "مبيعات الدعم الممتدة والمتجددة",
+    "Favicon": "فافيكون",
+    "Fetch Statements": "عبارات الجلب",
+    "Following the :link to create a Slack webhook URL.": "اتباع :link لإنشاء عنوان URL لرابط الويب الخاص بـ Slack.",
+    "Forgot your password?": "هل نسيت كلمة المرور الخاصة بك؟",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "هل نسيت كلمة المرور الخاصة بك؟ لا توجد مشكلة. ما عليك سوى إخبارنا بعنوان بريدك الإلكتروني وسنرسل لك عبر البريد الإلكتروني رابط إعادة تعيين كلمة المرور الذي سيسمح لك باختيار عنوان جديد.",
+    "From :from to :to": "من :from إلى :to",
+    "From Phone Number ID": "من معرف رقم الهاتف",
+    "From region": "من المنطقة",
+    "General Settings": "إعدادات عامة",
+    "Generate": "يُولّد",
+    "Get Chat ID": "احصل على معرف الدردشة",
+    "Gradient Color From": "لون متدرج من",
+    "Gradient Color To": "لون متدرج إلى",
+    "Here you can manage user accounts.": "هنا يمكنك إدارة حسابات المستخدمين.",
+    "Here you can manage your Envato accounts.": "هنا يمكنك إدارة حسابات Envato الخاصة بك.",
+    "Hide earnings?": "إخفاء الأرباح؟",
+    "Icon": "أيقونة",
+    "If enabled, money earnings on the dashboard page will be hidden.": "في حالة التمكين، سيتم إخفاء الأرباح المالية على صفحة لوحة التحكم.",
+    "If not selected, the default currency (USD) will be used.": "إذا لم يتم تحديدها، سيتم استخدام العملة الافتراضية (USD).",
+    "If you don't have received any message from the bot, please reply to the message from the bot with any word to mark it as not spam.": "إذا لم تتلق أي رسالة من البوت، يرجى الرد على الرسالة من البوت بأي كلمة لوضع علامة عليها على أنها ليست بريدًا عشوائيًا.",
+    "If you have more than 1,000 sales on Envato market. This is the best way to import your statements.": "إذا كان لديك أكثر من 1000 عملية بيع في سوق Envato. هذه هي أفضل طريقة لاستيراد البيانات الخاصة بك.",
+    "If you use Laravel Sail, just change DB_HOST to DB_HOST=mysql. On some hosting DB_HOST can be localhost instead of 127.0.0.1": "إذا كنت تستخدم Laravel Sail، فما عليك سوى تغيير DB_HOST إلى DB_host=MySQL. في بعض الاستضافة، يمكن أن يكون DB_HOST مضيفًا محليًا بدلاً من 127.0.0.1",
+    "If your profile page is :href, then your username on Envato is :name.": "إذا كانت صفحة ملف التعريف الخاصة بك هي :href, فإن اسم المستخدم الخاص بك على Envato هو :name.",
+    "Import from API": "الاستيراد من API",
+    "Import from CSV": "الاستيراد من CSV",
+    "Import statements from CSV file": "استيراد عبارات من ملف CSV",
+    "Import statements from Envato API": "استيراد البيانات من Envato API",
+    "Imported :count statements...": "تم استيراد عبارات :count...",
+    "Importing": "الاستيراد",
+    "Importing items...": "جاري استيراد العناصر...",
+    "Install": "تثبيت",
+    "Installation": "التثبيت",
+    "Installer": "المثبت",
+    "Invalid license.": "ترخيص غير صالح.",
+    "Invalid purchase code!": "رمز شراء غير صالح!",
+    "Invalid widget class.": "فئة عنصر واجهة مستخدم غير صالحة.",
+    "It is not recommended if your Envato account has more than 1,000 sales due to Envato API limitation.": "لا يوصى إذا كان حساب Envato الخاص بك يحتوي على أكثر من 1,000 عملية بيع بسبب قيود Envato API.",
+    "It looks as though there are no data to display.": "يبدو أنه لا توجد بيانات لعرضها.",
+    "Item deleted successfully.": "تم حذف العنصر بنجاح.",
+    "Item histories": "تواريخ العناصر",
+    "Item not found.": "لم يتم العثور على العنصر.",
+    "Items": "الأصناف",
+    "Key": "مفتاح",
+    "Language": "اللغة",
+    "Last 30 days": "آخر 30 يومًا",
+    "Last 7 days": "آخر 7 أيام",
+    "Last checked at :time": "تم التحقق آخر مرة في :time",
+    "Last connected :time": "آخر اتصال :time",
+    "Last month": "الشهر الماضي",
+    "Latest sale! 🎉": "أحدث تخفيضات! 🎉",
+    "Learn more": "تعرف على المزيد",
+    "Left to Right (LTR)": "من اليسار إلى اليمين (LTR)",
+    "License Activation": "تفعيل الترخيص",
+    "License key": "مفتاح الترخيص",
+    "License type": "نوع الترخيص",
+    "Licensed to :buyer. Activated since :licensedAt.": "تم ترخيصه لـ :buyer. وتم تنشيطه منذ :licensedAt.",
+    "Light": "ضوء",
+    "Local Currency": "العملة المحلية",
+    "Localize Earnings": "توطين الأرباح",
+    "Log in": "تسجيل الدخول",
+    "Logo": "الشعار",
+    "Manage Languages": "إدارة اللغات",
+    "Manage accounts": "إدارة الحسابات",
+    "Manage languages for your application.": "قم بإدارة اللغات لتطبيقك.",
+    "Manage your extended & renewed support sales": "إدارة مبيعات الدعم الممتدة والمتجددة",
+    "Manage your items": "إدارة العناصر الخاصة بك",
+    "Manage your reverse sales": "إدارة المبيعات العكسية",
+    "Manage your sales by countries": "إدارة مبيعاتك حسب البلدان",
+    "Manage your statements": "إدارة كشوفات الحساب",
+    "Manage your translations.": "قم بإدارة ترجماتك.",
+    "Manage your watching items": "إدارة عناصر المشاهدة الخاصة بك",
+    "More info.": "المزيد من المعلومات.",
+    "N/A": "غير متوفر",
+    "Name": "اسم",
+    "Needs to set Confirmation URL in your Envato app to:": "يحتاج إلى تعيين عنوان URL للتأكيد في تطبيق Envato الخاص بك إلى:",
+    "New Sale": "بيع جديد",
+    "New User": "مستخدم جديد",
+    "New language has been successfully added.": "تمت إضافة لغة جديدة بنجاح.",
+    "Next": "التالي",
+    "No": "لا",
+    "No accounts found.": "لم يتم العثور على أية حسابات.",
+    "No accounts found. Please connect your Envato account first.": "لم يتم العثور على أية حسابات. يرجى ربط حساب Envato الخاص بك أولاً.",
+    "No chat group found. Please send a message to your bot first.": "لم يتم العثور على مجموعة دردشة. يرجى إرسال رسالة إلى الروبوت الخاص بك أولاً.",
+    "No data available": "لا توجد بيانات متاحة",
+    "No sales": "لا توجد مبيعات",
+    "No sales today": "لا توجد مبيعات اليوم",
+    "Note: Your site IP will be added to blacklist after 5 failed attempts.": "ملاحظة: ستتم إضافة عنوان IP الخاص بموقعك إلى القائمة السوداء بعد 5 محاولات فاشلة.",
+    "Notification settings updated successfully.": "تم تحديث إعدادات الإعلام بنجاح.",
+    "Notifications": "الإشعارات",
+    "Notifications Settings": "إعدادات الإشعارات",
+    "Number of sales": "عدد المبيعات",
+    "Open Exchange App ID": "افتح معرف تطبيق Exchange",
+    "Open the crontab file using a text editor (e.g., `crontab -e`).": "افتح ملف crontab باستخدام محرر نصوص (على سبيل المثال، `crontab -e`).",
+    "Open user menu": "افتح قائمة المستخدم",
+    "Order ID": "معرف الطلب",
+    "Owned": "مملوكة",
+    "Password": "كلمة المرور",
+    "Password Confirmation": "تأكيد كلمة المرور",
+    "Previous": "السابق",
+    "Price": "السعر",
+    "Price :price (After buyer fee) - Earnings :amount (Author fee :authorFee - Tax :tax)": "السعر :price (بعد رسوم المشتري) - الأرباح :amount (رسوم المؤلف :authorFee - الضريبة :tax)",
+    "Primary Color": "اللون الأساسي",
+    "Processed.": "تمت معالجتها.",
+    "Profile": "الملف الشخصي",
+    "Published Date": "تاريخ النشر",
+    "Purchase code": "رمز الشراء",
+    "Rating Avg.": "متوسط التصنيف.",
+    "Reconnect account": "إعادة الاتصال بالحساب",
+    "Refund": "استرداد الأموال",
+    "Refund Sale": "بيع الاسترداد",
+    "Remember me": "تذكرني",
+    "Remove": "إزالة",
+    "Reset": "إعادة تعيين",
+    "Reset Envato integration": "إعادة تعيين تكامل Envato",
+    "Reset Envato integration successfully!": "إعادة تعيين تكامل Envato بنجاح!",
+    "Reset Password": "إعادة تعيين كلمة المرور",
+    "Reset license on this domain": "إعادة تعيين الترخيص على هذا النطاق",
+    "Reversal": "الانعكاس",
+    "Reversal Sale": "البيع العكسي",
+    "Reversal Sales": "المبيعات العكسية",
+    "Right to Left (RTL)": "من اليمين إلى اليسار (RTL)",
+    "Sale Refund": "استرداد البيع",
+    "Sales": "المبيعات",
+    "Sales By Countries": "المبيعات حسب البلدان",
+    "Sales By Country": "المبيعات حسب البلد",
+    "Sales By Item": "المبيعات حسب العنصر",
+    "Sales By Items": "المبيعات حسب الأصناف",
+    "Sales Reversal": "عكس المبيعات",
+    "Sales report": "تقرير المبيعات",
+    "Sales this month": "مبيعات هذا الشهر",
+    "Sales today": "المبيعات اليوم",
+    "Save": "وفر",
+    "Save changes": "حفظ التغييرات",
+    "Scriptable": "قابل للبرمجة",
+    "Scriptable Settings": "إعدادات قابلة للبرمجة",
+    "Scriptable access token": "رمز وصول قابل للبرمجة",
+    "Scriptable help you create a widget in iOS that shows your revenues for this year, this month, and the total. To read more about scriptable :here.": "يساعدك Scriptable في إنشاء أداة في iOS تعرض إيراداتك لهذا العام وهذا الشهر والإجمالي. لقراءة المزيد حول :here. القابل للبرمجة",
+    "Secondary Color": "لون ثانوي",
+    "Send test": "أرسل الاختبار",
+    "Server Requirements": "متطلبات الخادم",
+    "Setting up the Cronjob": "إعداد كرونجوب",
+    "Settings": "إعدادات",
+    "Settings have been updated successfully!": "تم تحديث الإعدادات بنجاح!",
+    "Show earnings?": "عرض الأرباح؟",
+    "Showing :from to :to of :total results": "عرض :from إلى :to من نتائج :totaltal",
+    "Sign out": "تسجيل الخروج",
+    "Signed in as": "تم تسجيل الدخول باسم",
+    "Site Description": "وصف الموقع",
+    "Site Direction": "اتجاه الموقع",
+    "Site Language": "لغة الموقع",
+    "Site Name": "اسم الموقع",
+    "Site title": "عنوان الموقع",
+    "Size :size": "الحجم :size",
+    "Skip": "تخطي",
+    "Slack webhook URL": "عنوان URL لرابط الويب الخاص بسلاك",
+    "Something went wrong.": "حدث خطأ ما.",
+    "Statements": "بيانات",
+    "Step 1 | Server Requirements": "الخطوة 1 | متطلبات الخادم",
+    "Step 2 | Environment Settings": "الخطوة 2 | إعدادات البيئة",
+    "Step 3 | Create account": "الخطوة 3 | إنشاء حساب",
+    "Step 4 | Active license": "الخطوة 4 | ترخيص نشط",
+    "Submit": "إرسال",
+    "Support :month months from now :supportType": "دعم :month بعد أشهر من الآن :supportType",
+    "Support Amount: :supportAmount, Supported until: :supportedUntil": "مبلغ الدعم: :supportAmount, مدعوم حتى: :supportedUntil",
+    "Support time": "وقت الدعم",
+    "Switch Account": "حساب سويتش",
+    "System": "النظام",
+    "System Updater": "مُحدث النظام",
+    "System Users": "مستخدمو النظام",
+    "Telegram bot token": "رمز تيليجرام بوت",
+    "Telegram chat ID": "معرف دردشة تيليجرام",
+    "Test notification sent successfully.": "تم إرسال إشعار الاختبار بنجاح.",
+    "The :attribute must be a valid Envato item URL.": "يجب أن يكون :attribute عنوان URL صالحًا لعنصر Envato.",
+    "The cronjob will now run at every minute and execute the specified command.": "سيتم تشغيل cronjob الآن في كل دقيقة وتنفيذ الأمر المحدد.",
+    "The following errors occurred:": "حدثت الأخطاء التالية:",
+    "The locale has been deleted.": "تم حذف الإعدادات المحلية.",
+    "The search keyword must be a string.": "يجب أن تكون كلمة البحث عبارة عن سلسلة.",
+    "The update files have been downloaded successfully.": "تم تنزيل ملفات التحديث بنجاح.",
+    "Theme Mode": "وضع الموضوع",
+    "This Month": "هذا الشهر",
+    "This Year": "هذا العام",
+    "This account do not exists.": "هذا الحساب غير موجود.",
+    "This account does not match the account. Please try again.": "لا يتطابق هذا الحساب مع الحساب. يرجى المحاولة مرة أخرى.",
+    "This action is not existed or implemented.": "هذا الإجراء غير موجود أو مطبق.",
+    "This action might take several minutes to be completed.": "قد يستغرق هذا الإجراء عدة دقائق حتى يكتمل.",
+    "This action restricted by demo mode!": "هذا الإجراء مقيد بالوضع التجريبي!",
+    "This language doesn't exists!": "هذه اللغة غير موجودة!",
+    "This month": "هذا الشهر",
+    "This session not found or completed. Please upload CSV first.": "لم يتم العثور على هذه الجلسة أو إكمالها. يرجى تحميل CSV أولاً.",
+    "Timezone": "منطقة زمنية",
+    "To Phone Number": "إلى رقم الهاتف",
+    "To get your Telegram Bot Token, you need to create a bot using the :link bot.": "للحصول على رمز تيليجرام بوت الخاص بك، تحتاج إلى إنشاء بوت باستخدام بوت :link.",
+    "To run the cronjob, follow the instructions below.": "لتشغيل cronjob، اتبع التعليمات أدناه.",
+    "Today": "اليوم",
+    "Tools": "أدوات",
+    "Total": "الإجمالي",
+    "Total Rating": "التقييم الإجمالي",
+    "Total earnings": "إجمالي الأرباح",
+    "Total followers": "إجمالي المتابعين",
+    "Total items": "إجمالي العناصر",
+    "Total sales": "إجمالي المبيعات",
+    "Total sales not available": "إجمالي المبيعات غير متاح",
+    "Translate": "ترجم",
+    "Translate this language": "ترجم هذه اللغة",
+    "Translating from :from to :to": "الترجمة من :from إلى :to",
+    "Translations": "الترجمات",
+    "Translations have been successfully updated": "تم تحديث الترجمات بنجاح",
+    "Type": "النوع",
+    "URL": "رابط",
+    "Unable to delete the locale.": "غير قادر على حذف الإعدادات المحلية.",
+    "Unable to save the .env file, Please create it manually.": "غير قادر على حفظ ملف .env، يرجى إنشائه يدويًا.",
+    "Update": "تحديث",
+    "Update password successfully": "تم تحديث كلمة المرور بنجاح",
+    "Update profile successfully": "تم تحديث ملف التعريف بنجاح",
+    "Update the password used for logging into your user account.": "قم بتحديث كلمة المرور المستخدمة لتسجيل الدخول إلى حساب المستخدم الخاص بك.",
+    "Update your Envato credentials to use the Envato Market API. If you don't have an Envato app, please create a new app :here.": "قم بتحديث بيانات اعتماد Envato الخاصة بك لاستخدام واجهة برمجة تطبيقات Envato Market. إذا لم يكن لديك تطبيق Envato، يرجى إنشاء تطبيق جديد :here.",
+    "Update your appearance": "قم بتحديث مظهرك",
+    "Upload": "رفع",
+    "Uploaded. Waiting for process...": "تم تحميلها. في انتظار العملية...",
+    "User has been created successfully.": "تم إنشاء المستخدم بنجاح.",
+    "User has been deleted successfully.": "تم حذف المستخدم بنجاح.",
+    "User has been updated successfully.": "تم تحديث المستخدم بنجاح.",
+    "Value": "القيمة",
+    "Verify": "تحقق",
+    "Verify Purchase Code": "تحقق من رمز الشراء",
+    "Verify the authenticity of their purchased items on Envato.": "تحقق من صحة المنتجات التي تم شراؤها على Envato.",
+    "View stats": "عرض الإحصائيات",
+    "Waiting for upload...": "في انتظار التحميل...",
+    "Watching Items": "عناصر المشاهدة",
+    "Watching Otems": "أدوات المشاهدة",
+    "Webhook URL": "عنوان URL الخاص بخطاف الويب",
+    "Welcome back,": "مرحبًا بك مرة أخرى،",
+    "What is this?": "ما هذا؟",
+    "WhatsApp access token": "رمز الوصول إلى WhatsApp",
+    "WhatsApp from phone number ID": "WhatsApp من معرف رقم الهاتف",
+    "WhatsApp to phone number": "واتساب إلى رقم الهاتف",
+    "Yes": "نعم",
+    "You are not authorized to perform this action.": "لا يحق لك تنفيذ هذا الإجراء.",
+    "You can get your \"App ID\" from :link": "يمكنك الحصول على «معرف التطبيق» الخاص بك من :link",
+    "You can learn more about cronjob from the Laravel :documentation": "يمكنك معرفة المزيد عن cronjob من Laravel :documentation",
+    "You cannot delete yourself.": "لا يمكنك حذف نفسك.",
+    "You just sold :item (total :sales sales) for :price (:time).": "لقد قمت للتو ببيع :item (إجمالي مبيعات :sales) لـ :price (:time).",
+    "You must log in to :envatoSite first.": "يجب تسجيل الدخول إلى :envatoSite أولاً.",
+    "You need to create a WhatsApp Business API account to get your access token. :link": "تحتاج إلى إنشاء حساب WhatsApp Business API للحصول على رمز الوصول الخاص بك. :link",
+    "Your .env file settings have been saved.": "تم حفظ إعدادات ملف.env الخاصة بك.",
+    "Your Envato account has been disconnected.": "تم قطع حساب Envato الخاص بك.",
+    "Your Envato's username": "اسم مستخدم Envato الخاص بك",
+    "Your app has been installer successfully.": "تم تثبيت التطبيق الخاص بك بنجاح.",
+    "Your asset files have been published successfully.": "تم نشر ملفات الأصول الخاصة بك بنجاح.",
+    "Your cronjob is not running. Please check your server's cronjob.": "وظيفة cronjob الخاصة بك لا تعمل. يرجى التحقق من cronjob الخاص بالخادم الخاص بك.",
+    "Your files and database have been updated successfully.": "تم تحديث الملفات وقاعدة البيانات بنجاح.",
+    "Your license could not be activated.": "لا يمكن تنشيط الترخيص الخاص بك.",
+    "Your license could not be deactivated.": "لا يمكن إلغاء تنشيط الترخيص الخاص بك.",
+    "Your license could not be revoked.": "لا يمكن إلغاء الترخيص الخاص بك.",
+    "Your license has been activated successfully.": "تم تنشيط الترخيص الخاص بك بنجاح.",
+    "Your license has been deactivated successfully.": "تم إلغاء تنشيط الترخيص الخاص بك بنجاح.",
+    "Your license has been revoked successfully.": "تم إلغاء الترخيص الخاص بك بنجاح.",
+    "Your license is not activated.": "لم يتم تنشيط الترخيص الخاص بك.",
+    "Your server is not connected to the internet.": "الخادم الخاص بك غير متصل بالإنترنت.",
+    "Your settings have been saved.": "تم حفظ الإعدادات الخاصة بك.",
+    "Your settings was updated!": "تم تحديث إعداداتك!",
+    "Your system have been cleaned up successfully.": "تم تنظيف النظام الخاص بك بنجاح.",
+    "Your username on Envato": "اسم المستخدم الخاص بك على Envato",
+    "documentation": "وثائق",
+    "instructions": "تعليمات",
+    "new license here": "ترخيص جديد هنا",
+    "translation key": "مفتاح الترجمة"
+}
