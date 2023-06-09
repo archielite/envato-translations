@@ -107,7 +107,7 @@ return [
         'mixed'         => ':Attribute 必须至少包含一个大写字母和一个小写字母。',
         'numbers'       => ':Attribute 必须至少包含一个数字。',
         'symbols'       => ':Attribute 必须至少包含一个符号。',
-        'uncompromised' => '给定的 :attribute 出现在数据泄漏中。请选择不同的 :attribute。',
+        'uncompromised' => '给定的 :attribute 出现在已经泄漏的密码中。请选择不同的 :attribute。',
     ],
     'present'              => ':Attribute 必须存在。',
     'prohibited'           => ':Attribute 字段被禁止。',
