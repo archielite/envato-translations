@@ -22,6 +22,7 @@ return [
         'string'  => 'ข้อมูล :attribute ต้องมีความยาวตัวอักษรระหว่าง :min - :max ตัวอักษร',
     ],
     'boolean'              => 'ข้อมูล :attribute ต้องเป็นจริงหรือเท็จเท่านั้น',
+    'can'                  => 'ฟิลด์ :attribute มีค่าที่ไม่ได้รับอนุญาต',
     'confirmed'            => 'ข้อมูล :attribute ไม่ตรงกัน',
     'current_password'     => 'รหัสผ่านไม่ถูกต้อง',
     'date'                 => 'ข้อมูล :attribute ต้องเป็นวันที่',

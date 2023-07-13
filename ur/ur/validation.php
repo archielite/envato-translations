@@ -22,6 +22,7 @@ return [
         'string'  => ':Attribute لازماً :min اور :max کریکٹرز کے درمیان ہو۔',
     ],
     'boolean'              => ':Attribute لازماً درست یا غلط ہونا چاہیے۔',
+    'can'                  => ':Attribute فیلڈ میں ایک غیر مجاز قدر شامل ہے۔',
     'confirmed'            => ':Attribute تصدیق سے مطابقت نہیں رکھتا۔',
     'current_password'     => 'پاس ورڈ غلط ہے۔',
     'date'                 => ':Attribute قابلِ قبول تاریخ نہیں ہے۔',

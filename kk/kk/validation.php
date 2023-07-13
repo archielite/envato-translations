@@ -22,6 +22,7 @@ return [
         'string'  => ':Attribute тармағы :min және :max аралығындағы таңбалардан тұруы керек.',
     ],
     'boolean'              => ':Attribute жолы шын немесе жалған мән болуы керек.',
+    'can'                  => ':Attribute өрісінде рұқсат етілмеген мән бар.',
     'confirmed'            => ':Attribute растауы сәйкес емес.',
     'current_password'     => 'Құпия сөз дұрыс емес.',
     'date'                 => ':Attribute жарамды күн емес.',

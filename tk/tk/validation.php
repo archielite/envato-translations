@@ -22,6 +22,7 @@ return [
         'string'  => ':Attribute :min - :max harplar arasynda bolmalydyr.',
     ],
     'boolean'              => ':Attribute diňe dogry ýada ýalňyş bolmalydyr.',
+    'can'                  => ':Attribute meýdanda birugsat baha bar.',
     'confirmed'            => ':Attribute tassyklamasy deň däl.',
     'current_password'     => 'Parol nädogry',
     'date'                 => ':Attribute dogry sene bolmalydyr.',

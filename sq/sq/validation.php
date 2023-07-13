@@ -22,6 +22,7 @@ return [
         'string'  => ':Attribute duhet të ketë ndërmjet :min - :max karaktereve.',
     ],
     'boolean'              => 'Fusha :attribute duhet të jetë e vërtetë ose e gabuar',
+    'can'                  => 'Fusha :attribute përmban një vlerë të paautorizuar.',
     'confirmed'            => ':Attribute konfirmimi nuk përputhet.',
     'current_password'     => 'Fjalëkalimi është i pasaktë.',
     'date'                 => ':Attribute nuk është një datë e saktë.',

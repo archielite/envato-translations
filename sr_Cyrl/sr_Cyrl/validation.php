@@ -22,6 +22,7 @@ return [
         'string'  => 'Поље :attribute мора бити између :min - :max карактера.',
     ],
     'boolean'              => 'Поље :attribute мора бити тачно или нетачно',
+    'can'                  => 'Поље :attribute садржи неовлашћену вредност.',
     'confirmed'            => 'Потврда поља :attribute се не поклапа.',
     'current_password'     => 'Лозинка је нетачна.',
     'date'                 => 'Поље :attribute није важећи датум.',

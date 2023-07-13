@@ -22,6 +22,7 @@ return [
         'string'  => 'Kentän :attribute tulee olla :min - :max merkkiä pitkä.',
     ],
     'boolean'              => 'Kentän :attribute arvon tulee olla tosi tai epätosi.',
+    'can'                  => ':Attribute-kenttä sisältää luvattoman arvon.',
     'confirmed'            => 'Kentän :attribute vahvistus ei täsmää.',
     'current_password'     => 'Salasana on väärä.',
     'date'                 => 'Kentän :attribute arvo ei ole kelvollinen päivämäärä.',

@@ -22,6 +22,7 @@ return [
         'string'  => 'A(z) :attribute hossza :min és :max karakter között kell, hogy legyen!',
     ],
     'boolean'              => 'A(z) :attribute mező csak true vagy false értéket kaphat!',
+    'can'                  => 'A :attribute-es mező nem engedélyezett értéket tartalmaz.',
     'confirmed'            => 'A(z) :attribute nem egyezik a megerősítéssel.',
     'current_password'     => 'A jelszó helytelen.',
     'date'                 => 'A(z) :attribute nem érvényes dátum.',

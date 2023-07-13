@@ -22,6 +22,7 @@ return [
         'string'  => 'Reiturinn :attribute verður að vera á milli :min - :max stafa.',
     ],
     'boolean'              => 'Reiturinn :attribute verður að vera réttur eða rangur.',
+    'can'                  => 'Reiturinn :attribute inniheldur óheimilt gildi.',
     'confirmed'            => 'Staðfesting á reitnum :attribute passar ekki.',
     'current_password'     => 'Lykilorðið er rangt.',
     'date'                 => 'Reiturinn :attribute er ekki rétt dagsetning.',

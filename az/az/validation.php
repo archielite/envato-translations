@@ -22,6 +22,7 @@ return [
         'string'  => ':Attribute :min ilə :max simvol arasında olmalıdır.',
     ],
     'boolean'              => ':Attribute sahəsi doğru (true) və ya yalan (false) olmalıdır.',
+    'can'                  => ':Attribute sahəsində icazəsiz dəyər var.',
     'confirmed'            => ':Attribute sahəsinin dəyəri təsdiqlənənlə uyğun gəlmir.',
     'current_password'     => 'Şifrə yanlışdır.',
     'date'                 => ':Attribute düzgün tarix olmalıdır.',

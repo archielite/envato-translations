@@ -22,6 +22,7 @@ return [
         'string'  => 'Kipengele lazima kiwe kati ya :min na :max cha herufi.',
     ],
     'boolean'              => 'Sehemu ya kipengele lazima iwe kweli au si kweli.',
+    'can'                  => 'Sehemu ya :attribute ina thamani isiyoidhinishwa.',
     'confirmed'            => 'Uthibitisho wa kipengele haulingani.',
     'current_password'     => 'Nenosiri si sahihi.',
     'date'                 => 'Kipengele si tarehe halali.',

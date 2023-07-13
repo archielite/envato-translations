@@ -22,6 +22,7 @@ return [
         'string'  => 'Rhaid i :attribute fod rhwng :min a :max nodyn.',
     ],
     'boolean'              => 'Rhaid i\'r maes :attribute fod yn wir neu gau.',
+    'can'                  => 'Mae\'r maes :attribute yn cynnwys gwerth anawdurdodedig.',
     'confirmed'            => 'Nid yw\'r cadarnhad :attribute yn gyfwerth.',
     'current_password'     => 'Mae\'r cyfrinair yn anghywir.',
     'date'                 => 'Nid yw :attribute yn ddyddiad dilys.',

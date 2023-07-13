@@ -22,6 +22,7 @@ return [
         'string'  => ':Attribute skal vere mellom :min - :max teikn.',
     ],
     'boolean'              => ':Attribute må vere sann eller usann.',
+    'can'                  => ':Attribute-feltet inneholder en uautorisert verdi.',
     'confirmed'            => ':Attribute er ikkje likt feltet for stadfesting.',
     'current_password'     => 'Passordet er feil.',
     'date'                 => ':Attribute er ikkje ein gyldig dato.',

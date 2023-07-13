@@ -22,6 +22,7 @@ return [
         'string'  => 'د متن حروف باید باید وي :attribute ما بين:min او :max.',
     ],
     'boolean'              => 'دا باید ارزښت وي :attribute او یا هم true یا false .',
+    'can'                  => ':Attribute ساحه یو غیر مجاز ارزښت لري.',
     'confirmed'            => 'د تایید ساحه د ساحې سره سمون نه لري:attribute.',
     'current_password'     => 'پټنوم غلط دی.',
     'date'                 => ':Attribute نېټه اعتبار نلري .',

@@ -22,6 +22,7 @@ return [
         'string'  => 'Lo tèxt :attribute deu conténer entre :min e :max caractèrs.',
     ],
     'boolean'              => 'Lo camp :attribute deu èsser true o false.',
+    'can'                  => 'The :attribute field contains an unauthorized value.',
     'confirmed'            => 'Lo camp de confirmacion :attribute correspond pas.',
     'current_password'     => 'The password is incorrect.',
     'date'                 => 'Lo camp :attribute es pas una data valida.',

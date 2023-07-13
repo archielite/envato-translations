@@ -22,6 +22,7 @@ return [
         'string'  => ':Attribute jābūt no :min līdz :max zīmēm.',
     ],
     'boolean'              => ':Attribute lauciņam jābūt patiesam vai nepatiesam.',
+    'can'                  => 'Laukā :attribute ir neatļauta vērtība.',
     'confirmed'            => ':Attribute apstiprinājums neatbilst.',
     'current_password'     => 'Parole ir nepareiza.',
     'date'                 => ':Attribute nav derīgs.',

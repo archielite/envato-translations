@@ -22,6 +22,7 @@ return [
         'string'  => ':Attribute даги белгилар сони :min ва :max орасида бўлиши керак.',
     ],
     'boolean'              => ':Attribute майдони фақат мантиқий қийматни қабул қилади.',
+    'can'                  => ':Attribute-maydonda ruxsat etilmagan qiymat mavjud.',
     'confirmed'            => ':Attribute тасдиқлангани билан мос келмади.',
     'current_password'     => 'Parol noto\'g\'ri.',
     'date'                 => ':Attribute сана эмас.',

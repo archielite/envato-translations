@@ -22,6 +22,7 @@ return [
         'string'  => 'يجب أن يكون عدد حروف نّص حقل :attribute بين :min و :max.',
     ],
     'boolean'              => 'يجب أن تكون قيمة حقل :attribute إما true أو false .',
+    'can'                  => 'الحقل :attribute يحتوي على قيمة غير مصرّح بها.',
     'confirmed'            => 'حقل التأكيد غير مُطابق للحقل :attribute.',
     'current_password'     => 'كلمة المرور غير صحيحة.',
     'date'                 => 'حقل :attribute ليس تاريخًا صحيحًا.',

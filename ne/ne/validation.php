@@ -22,6 +22,7 @@ return [
         'string'  => ':Attribute :min र :max वर्णको बिचमा हुनुपर्छ।',
     ],
     'boolean'              => ':Attribute ठिक अथवा बेठिक हुनुपर्छ।',
+    'can'                  => ':Attribute फिल्डमा अनाधिकृत मान समावेश छ।',
     'confirmed'            => ':Attribute दाेहाेर्याइएकाे मिलेन।',
     'current_password'     => 'पासवर्ड गलत छ।',
     'date'                 => ':Attribute को मिति मिलेन।',

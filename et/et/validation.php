@@ -22,6 +22,7 @@ return [
         'string'  => ':Attribute peab olema :min ja :max tähemärgi vahel.',
     ],
     'boolean'              => ':Attribute väli peab olema tõene või väär.',
+    'can'                  => 'Väli :attribute sisaldab volitamata väärtust.',
     'confirmed'            => ':Attribute kinnitus ei vasta.',
     'current_password'     => 'Parool on vale.',
     'date'                 => ':Attribute pole kehtiv kuupäev.',

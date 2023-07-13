@@ -22,6 +22,7 @@ return [
         'string'  => 'Полето :attribute трябва да бъде между :min и :max знака.',
     ],
     'boolean'              => 'Полето :attribute трябва да съдържа Да или Не',
+    'can'                  => 'Полето :attribute съдържа неразрешена стойност.',
     'confirmed'            => 'Полето :attribute не е потвърдено.',
     'current_password'     => 'Паролата е неправилна.',
     'date'                 => 'Полето :attribute не е валидна дата.',

@@ -22,6 +22,7 @@ return [
         'string'  => ':Attribute musí být delší než :min a kratší než :max znaků.',
     ],
     'boolean'              => ':Attribute musí být true nebo false',
+    'can'                  => 'Pole :attribute obsahuje neautorizovanou hodnotu.',
     'confirmed'            => ':Attribute nesouhlasí.',
     'current_password'     => 'Současné heslo není spravné.',
     'date'                 => ':Attribute musí být platné datum.',

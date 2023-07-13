@@ -22,6 +22,7 @@ return [
         'string'  => ':Attribute ត្រូវតែមានរវាង :min និង :max តួអក្សរ។',
     ],
     'boolean'              => ':Attribute ត្រូវតែជា ពិត ឬ មិនពិត',
+    'can'                  => 'វាល :attribute មាន​តម្លៃ​ដែល​គ្មាន​ការ​អនុញ្ញាត។',
     'confirmed'            => ':Attribute ការបញ្ជាក់មិនផ្គូរផ្គង។',
     'current_password'     => 'ពាក្យ​សម្ងាត់​មិន​ត្រឹមត្រូវ។',
     'date'                 => ':Attribute គឺមិនមែនជាកាលបរិច្ឆេទត្រឹមត្រូវ។',

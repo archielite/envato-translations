@@ -22,6 +22,7 @@ return [
         'string'  => ':Attribute mora biti med :min in :max znaki.',
     ],
     'boolean'              => ':Attribute polje mora biti 1 ali 0',
+    'can'                  => 'Polje :attribute vsebuje nedovoljeno vrednost.',
     'confirmed'            => ':Attribute potrditev se ne ujema.',
     'current_password'     => 'Geslo ni veljavno.',
     'date'                 => ':Attribute ni veljaven datum.',

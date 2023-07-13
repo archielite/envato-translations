@@ -22,6 +22,7 @@ return [
         'string'  => ':Attribute, :min किंवा :max शब्द यामध्ये असावी.',
     ],
     'boolean'              => ':Attribute फील्ड योग्य किंवा चुकीचे असावे.',
+    'can'                  => ':Attribute फील्डमध्ये अनधिकृत मूल्य आहे.',
     'confirmed'            => ':Attribute पुष्टीकरण जुळत नाही.',
     'current_password'     => 'संकेतशब्द चुकीचा आहे.',
     'date'                 => ':Attribute वैध तारीख नाही.',

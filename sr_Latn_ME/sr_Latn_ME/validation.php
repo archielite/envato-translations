@@ -22,6 +22,7 @@ return [
         'string'  => 'Rečenica polja :attribute mora da ima najmanje :min a najviše :max znakova.',
     ],
     'boolean'              => 'Polje :attribute mora da bude tačno ili netačno.',
+    'can'                  => 'The :attribute field contains an unauthorized value.',
     'confirmed'            => 'Potvrda za polje :attribute se ne poklapa.',
     'current_password'     => 'The password is incorrect.',
     'date'                 => 'Polje :attribute ne sadrži datum.',

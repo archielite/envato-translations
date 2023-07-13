@@ -22,6 +22,7 @@ return [
         'string'  => 'ಈ  :attribute ನಲ್ಲಿ  :min ಮತ್ತು :max ಅಕ್ಷರಗಳ ನಡುವೆ ಇರಬೇಕು.',
     ],
     'boolean'              => 'ಈ  :attribute ಕ್ಷೇತ್ರವು ನಿಜ ಅಥವಾ ಸುಳ್ಳು ಆಗಿರಬೇಕು.',
+    'can'                  => ':Attribute ಕ್ಷೇತ್ರವು ಅನಧಿಕೃತ ಮೌಲ್ಯವನ್ನು ಹೊಂದಿದೆ.',
     'confirmed'            => 'ಈ  :attribute ದೃಢೀಕರಣವು ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ.',
     'current_password'     => 'ಗುಪ್ತಪದವು ತಪ್ಪಾಗಿದೆ.',
     'date'                 => 'ಈ  :attribute ಮಾನ್ಯ ದಿನಾಂಕವಲ್ಲ.',

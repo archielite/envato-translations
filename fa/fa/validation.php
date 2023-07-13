@@ -22,6 +22,7 @@ return [
         'string'  => ':Attribute باید بین :min و :max کاراکتر باشد.',
     ],
     'boolean'              => 'فیلد :attribute فقط می‌تواند true و یا false باشد.',
+    'can'                  => 'فیلد :attribute یک مقدار غیرمجاز دارد.',
     'confirmed'            => ':Attribute با فیلد تکرار مطابقت ندارد.',
     'current_password'     => 'رمزعبور اشتباه است.',
     'date'                 => ':Attribute یک تاریخ معتبر نیست.',

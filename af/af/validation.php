@@ -22,6 +22,7 @@ return [
         'string'  => 'Die :attribute moet tussen :min en :max karakters wees.',
     ],
     'boolean'              => 'Die :attribute veld moet waar of onwaar wees.',
+    'can'                  => 'Die :attribute-veld bevat \'n ongemagtigde waarde.',
     'confirmed'            => 'Die :attribute bevestiging stem nie ooreen nie.',
     'current_password'     => 'Die wagwoord is verkeerd.',
     'date'                 => 'Die :attribute is nie geldige datum nie.',

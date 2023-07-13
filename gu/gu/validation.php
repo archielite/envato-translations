@@ -22,6 +22,7 @@ return [
         'string'  => ':Attribute ની વચ્ચે હોવું જોઈએ :min અને :max અક્ષરો.',
     ],
     'boolean'              => ':Attribute પ્રવૃત્તિ ક્ષેત્ર ખરું કે ખોટું હોવું જોઈએ.',
+    'can'                  => ':Attribute ફીલ્ડમાં અનધિકૃત મૂલ્ય છે.',
     'confirmed'            => ':Attribute પુષ્ટિકરણ બંધબેસતું નથી.',
     'current_password'     => 'પાસવર્ડ ખોટો છે.',
     'date'                 => ':Attribute માન્ય તારીખ નથી.',

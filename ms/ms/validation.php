@@ -22,6 +22,7 @@ return [
         'string'  => ':Attribute mesti mengandungi antara :min dan :max aksara.',
     ],
     'boolean'              => ':Attribute mesti benar atau salah.',
+    'can'                  => 'Medan :attribute mengandungi nilai yang tidak dibenarkan.',
     'confirmed'            => ':Attribute pengesahan yang tidak sepadan.',
     'current_password'     => 'Katalaluan anda adalah salah.',
     'date'                 => ':Attribute bukan tarikh yang sah.',

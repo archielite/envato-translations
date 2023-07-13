@@ -22,6 +22,7 @@ return [
         'string'  => 'Simbolių skaičius lauke :attribute turi būti tarp :min ir :max.',
     ],
     'boolean'              => 'Lauko reikšmė :attribute turi būti \'taip\' arba \'ne\'.',
+    'can'                  => ':Attribute lauke yra neleistina reikšmė.',
     'confirmed'            => 'Lauko :attribute patvirtinimas nesutampa.',
     'current_password'     => 'Slaptažodis yra neteisingas.',
     'date'                 => 'Lauko :attribute reikšmė nėra galiojanti data.',

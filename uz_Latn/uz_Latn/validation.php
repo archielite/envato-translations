@@ -22,6 +22,7 @@ return [
         'string'  => ':Attribute dagi belgilar soni :min va :max orasida bo‘lishi kerak.',
     ],
     'boolean'              => ':Attribute maydoni faqat mantiqiy qiymatni qabul qiladi.',
+    'can'                  => 'The :attribute field contains an unauthorized value.',
     'confirmed'            => ':Attribute tasdiqlangani bilan mos kelmadi.',
     'current_password'     => 'The password is incorrect.',
     'date'                 => ':Attribute sana emas.',

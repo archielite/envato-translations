@@ -22,6 +22,7 @@ return [
         'string'  => ':Attribute چوقۇم  :min - :max خەت ئارلىقىدا بۇلىشى كېرەك.',
     ],
     'boolean'              => ':Attribute چوقۇم بۇل قىممىتى بۇلىشى كېرەك.',
+    'can'                  => ':Attribute ساھەدە رۇخسەتسىز قىممەت بار.',
     'confirmed'            => ':Attribute ئىككى قېتىم كىرگۈزگەن قىممەت ئوخشاش بولمىدى.',
     'current_password'     => 'پارول خاتا.',
     'date'                 => ':Attribute بىر ئىناۋەتلىك ۋاقىت ئەمەس.',

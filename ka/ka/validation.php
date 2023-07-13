@@ -22,6 +22,7 @@ return [
         'string'  => ':Attribute უნდა იყოს :min-სა და :max სიმბოლოს შორის.',
     ],
     'boolean'              => ':Attribute ველი უნდა იყოს true ან false.',
+    'can'                  => ':Attribute ველი შეიცავს არაავტორიზებულ მნიშვნელობას.',
     'confirmed'            => ':Attribute-ის დადასტურება არ ემთხვევა.',
     'current_password'     => 'ველი :attribute შეიცავს არასწორ პაროლს.',
     'date'                 => ':Attribute შეიცავს თარიღის არასწორ ფორმატს.',

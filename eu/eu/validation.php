@@ -22,6 +22,7 @@ return [
         'string'  => ':Attribute-(e)k :min eta :max karaktere artean izan behar ditu.',
     ],
     'boolean'              => ':Attribute-(r)en balioa egia edo gezurra izan behar da.',
+    'can'                  => ':Attribute eremuak baimenik gabeko balio bat dauka.',
     'confirmed'            => ':Attribute-(r)en berrespena ez dator bat.',
     'current_password'     => 'Pasahitza okerra da.',
     'date'                 => ':Attribute ez da baliozko data.',

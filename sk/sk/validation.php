@@ -22,6 +22,7 @@ return [
         'string'  => ':Attribute musí mať rozsah :min - :max znakov.',
     ],
     'boolean'              => ':Attribute musí byť pravda alebo nepravda.',
+    'can'                  => 'Pole :attribute obsahuje neoprávnenú hodnotu.',
     'confirmed'            => ':Attribute konfirmácia sa nezhoduje.',
     'current_password'     => 'Heslo je nesprávne.',
     'date'                 => ':Attribute má neplatný dátum.',

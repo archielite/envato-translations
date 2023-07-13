@@ -22,6 +22,7 @@ return [
         'string'  => 'Ang :attribute ay dapat nasa pagitan ng :min at :max characters.',
     ],
     'boolean'              => 'Ang :attribute ng attribute ay dapat tama o mali.',
+    'can'                  => 'Ang :attribute field ay naglalaman ng hindi awtorisadong halaga.',
     'confirmed'            => 'Ang :attribute ng attribute ay hindi magkatugma.',
     'current_password'     => 'Mali ang password.',
     'date'                 => 'Ang :attribute ay hindi balidong petsa.',

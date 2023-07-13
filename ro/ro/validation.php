@@ -22,6 +22,7 @@ return [
         'string'  => 'Câmpul :attribute trebuie să fie între :min și :max caractere.',
     ],
     'boolean'              => 'Câmpul :attribute trebuie să fie adevărat sau fals.',
+    'can'                  => 'Câmpul :attribute conține o valoare neautorizată.',
     'confirmed'            => 'Confirmarea :attribute nu se potrivește.',
     'current_password'     => 'Parola e incorectă.',
     'date'                 => 'Câmpul :attribute nu este o dată validă.',

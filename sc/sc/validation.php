@@ -22,6 +22,7 @@ return [
         'string'  => ':Attribute depet èssere intre :min - :max caràteres.',
     ],
     'boolean'              => 'The :attribute field must be true or false',
+    'can'                  => 'The :attribute field contains an unauthorized value.',
     'confirmed'            => 'Su campu de cunfirma pro :attribute non torrat.',
     'current_password'     => 'The password is incorrect.',
     'date'                 => ':Attribute no est una data bàlida.',
